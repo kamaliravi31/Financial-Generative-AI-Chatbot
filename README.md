@@ -33,14 +33,15 @@ This project aims to develop a Generative AI Chatbot that assists investors in m
 - **Task**: Create a JSON file to map user queries to corresponding functions and responses.
 - **Structure**: The JSON file contains key-value pairs where the key is the user query and the value is the function or response.
 - **Outcome**: The JSON file enables the chatbot to understand and process user commands accurately, mapping each query to the appropriate action or response.
+  
+<img src=https://github.com/kamaliravi31/Financial-Generative-AI-Chatbot/blob/main/images/price_checker.png>
 
-## Implementation
-1. **Set Up Environment**: Configure the development environment with necessary libraries and dependencies.
-2. **Define Functions**: Implement each function to handle specific portfolio management tasks.
-3. **Create JSON Mapping**: Develop the JSON file to map user queries to functions.
-4. **Integrate Chatbot**: Combine the functions and JSON mapping into a chatbot framework.
-5. **Testing**: Test the chatbot with various scenarios to ensure accurate responses and actions.
-6. **Deployment**: Deploy the chatbot for investor use, ensuring it is accessible and user-friendly.
+
+<img src=https://github.com/kamaliravi31/Financial-Generative-AI-Chatbot/blob/main/images/line_chart.png>
+
+
+<img src=https://github.com/kamaliravi31/Financial-Generative-AI-Chatbot/blob/main/images/candle_stick.png>
+
 
 ## Conclusion
 This project successfully develops a Generative AI Chatbot for financial stock portfolio management, providing investors with a powerful tool to monitor and manage their portfolios. By implementing key functions and mapping user queries, the chatbot delivers efficient, real-time responses, enhancing the investment decision-making process.
